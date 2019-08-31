@@ -15,12 +15,12 @@
   "author": "Van-Duyet Le <me@duyetdev.com>",
   "license": "MIT",
   "devDependencies": {
-    "babel": "^6.0.15",
-    "babel-core": "^6.1.2",
-    "babel-loader": "^6.1.0",
-    "babel-preset-es2015": "^6.1.2",
-    "babel-preset-react": "^6.1.2",
-    "webpack": "^1.12.3"
+    "babel": "6.23.0",
+    "babel-core": "6.26.3",
+    "babel-loader": "6.4.1",
+    "babel-preset-es2015": "6.24.1",
+    "babel-preset-react": "6.24.1",
+    "webpack": "1.15.0"
   },
   "dependencies": {
     "react": "^16.0.0",
